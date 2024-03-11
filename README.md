@@ -18,10 +18,10 @@ with Load Forecast for 2022 published in 07.01.2020. Although the statistics are
 they serve as a basis for generating synthetic data for visualization.
 
 
-### The histogram from the [resource](https://elering.ee/en/electricity-consumption-and-production#tab0)
+### The table from the [resource](https://elering.ee/en/electricity-consumption-and-production#tab0)
 ![img.png](img.png)
 
-### The histogram from power_consumption.ipynb file.
+### The bar chart from power_consumption.ipynb file.
 
 
 ![power_consumption_plt.png](power_consumption_plt.png)
